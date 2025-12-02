@@ -1,0 +1,3 @@
+/home/ell/CMAKE/build/CMakeFiles/myapp.dir
+/home/ell/CMAKE/build/CMakeFiles/edit_cache.dir
+/home/ell/CMAKE/build/CMakeFiles/rebuild_cache.dir
